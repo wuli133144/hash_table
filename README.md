@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/wuli133144/hash_table.svg?branch=master)](https://travis-ci.org/wuli133144/hash_table.svg)
 
 #about
+
+[![Join the chat at https://gitter.im/hash_table/Lobby](https://badges.gitter.im/hash_table/Lobby.svg)](https://gitter.im/hash_table/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 我会持续更新hashtable，本项目在deepin os下可以良好运行，可以实现一般的查找功能
 
 #feature
